@@ -1,2 +1,2 @@
-# my_first_time
+# first_commit
 Trying out git for the first time
